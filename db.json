@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "mobile",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 8000,
+      "Comment": "galaxy j7 prime",
+      "date": "2022-07-07T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "carrot",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 50,
+      "Comment": "fresh vegetables ",
+      "date": "2022-07-06T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "Orange",
+      "category": "Friuts",
+      "freshness": "Brand New",
+      "price": 500,
+      "Comment": "good for health",
+      "date": "2022-07-08T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "Note9 pro",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 18000,
+      "Comment": "latest mobile phone",
+      "date": "2022-08-04T18:30:00.000Z",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
